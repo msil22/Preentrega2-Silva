@@ -1,0 +1,11 @@
+.navbar-brand{
+    max-height: 100px;
+}
+
+.custom-bg-color{
+    background-color: #232323;
+}
+
+.nav-item{
+    color: #fff !important;
+}
